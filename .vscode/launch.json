@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Buoi6Application<buoi6>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.security.buoi6.Buoi6Application",
+            "projectName": "buoi6",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Bt5Application<bt5>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "buoi5.bt5.Bt5Application",
+            "projectName": "bt5",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
